@@ -1,0 +1,3 @@
+1. Please keep the  train_data and test data in same folder where the .py file will be present
+2. I am reading file using panda, make sure you have latest version of panda install in your system.
+3. Instead of .py file, you may use .ipynb file in Jupiter Notebook as well, While running code in Jupiter Notebook run the code sequentially
